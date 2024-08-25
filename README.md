@@ -11,4 +11,4 @@
 `./monitor.sh -network`: Displays network monitoring information.  
 `./monitor.sh -disk`: Displays disk usage.  
 `./monitor.sh -process`: Displays process monitoring information.  
-`./monitor.sh -services`: Displays the status of essential services.  
+`./monitor.sh -services`: Displays the status of essential services. 

@@ -1,4 +1,4 @@
-# Monitoring-System-Resource-for-a-proxy-Server
+# Monitoring System Resource for a proxy Server
 ## A Bash script that monitors various system resources for a proxy server and presents them in a dashboard format
 
 ### Run the script without any arguments to display the full dashboard.  
